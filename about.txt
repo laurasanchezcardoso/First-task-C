@@ -1,0 +1,1 @@
+This program is a game of 4 in line for 2 players.
